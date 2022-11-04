@@ -1,14 +1,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/img/gurobi-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="/img/gurobi-light.png">
-  <img alt="Gurobi" src="../img/gurobi-light.png">
+  <img alt="Gurobi" src="/img/gurobi-light.png">
 </picture>
 
 # Welcome to Gurobi's public GitHub projects!
 
 We hope to grow and establish a collaborative community around Gurobi by openly developing a variety of different projects and tools that make optimization more accessible and easier to use for everyone.
 
-Our projects use the [Apache-2.0 license](../LICENSE) and we follow our [Code of Conduct](../CODE_OF_CONDUCT.md) to ensure a welcoming and open culture.
+Our projects use the [Apache-2.0 license](/LICENSE) and we follow our [Code of Conduct](/CODE_OF_CONDUCT.md) to ensure a welcoming and open culture.
 
 ## Questions, Issues, and Contributions
 
