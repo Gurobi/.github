@@ -12,7 +12,7 @@ Our projects use the [Apache-2.0 license](/LICENSE) and we follow our [Code of C
 
 ## Questions, Issues, and Contributions
 
-We use our [Gurobi Community Forum](https://support.gurobi.com/hc/en-us/community/topics/10373864542609-GitHub-Projects) to organize discussions around the projects so please feel free to write a new post if anything is unclear or if you have a specific question.
+We use our [Gurobi Community Forum](https://support.gurobi.com/hc/en-us/community/topics/10373864542609) to organize discussions around the projects so please feel free to write a new post if anything is unclear or if you have a specific question.
 
 Technical issues are best reported and handled as GitHub issues in the respective projects. The same holds for contributions that are supposed to be made by creating new Pull Requests in the projects.
 
